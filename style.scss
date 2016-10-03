@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background-image: url("Background.jpg");
+    background-image: url(Background.jpg);
+    background-position:left top;
+    background-repeat: no-repeat
+
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
