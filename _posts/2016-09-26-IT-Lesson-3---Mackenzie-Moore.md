@@ -56,6 +56,6 @@ published: true
     <td>I will practice what I want to learn but at the same time I want to learn other things to add to my ‘vocabulary’ in coding. So I will devote some time in the lesson to trying to understand something but after I will get on with some other work. I it takes to long to understand then I will just get on with other work and carry on practicing in the next lesson.</td>
   </tr>
 </table>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg" alt="i did it" style="width:width;height:height;">
+
 
 
