@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Hello, Welcome to my blog! 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+My name is Mackenzie Moore and this is a blog about my challenging adventure in IT.
+I am a part of a very successful grammar school for boys and am always looking for a challenge.
