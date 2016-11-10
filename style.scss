@@ -68,14 +68,7 @@ iframe {
 
 body {
     font: 18px/1.4 $helvetica;
-    color: #000000;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 900px;
-  padding: 0 10px;
-  width: 100%;
+    color
   
 }
 
@@ -161,9 +154,7 @@ img {
 
 table {
    border-collapse: collapse;
-   width: 100%;
-   opacity: 0.2;
-   filter: alpha(opacity=50);
+   width: 100%
 }
 
 table, th, td {
