@@ -118,7 +118,7 @@ p {
 }
 
 a {
-  color: #ffffff;
+  color: #bfbfbf;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -162,12 +162,13 @@ img {
 table {
    border-collapse: collapse;
    width: 100%;
-	
+   opacity: 0.2;
+   filter: alpha(opacity=50);
 }
 
 table, th, td {
 border: 1px solid white;
-background-color:#000000;
+background-color:none;
 border-radius: 5px;
 	
 }
