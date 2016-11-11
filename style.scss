@@ -23,6 +23,10 @@ body {
     background-position: bottom right;
     background-attachment: fixed;
     background-size: 100% 100%;
+
+   @include mobile {
+     background-size: 50% 50%;
+
 }
 
 table {
