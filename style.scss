@@ -227,7 +227,7 @@ vertical-align: middle;
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #000000;
+  border-bottom: none;
 
   @include mobile {
     text-align: center;
